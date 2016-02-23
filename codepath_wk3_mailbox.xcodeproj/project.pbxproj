@@ -14,6 +14,7 @@
 		0404ACC71C7A54E000C46E0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0404ACC51C7A54E000C46E0B /* LaunchScreen.storyboard */; };
 		0404ACD21C7A54E000C46E0B /* codepath_wk3_mailboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0404ACD11C7A54E000C46E0B /* codepath_wk3_mailboxTests.swift */; };
 		0404ACDD1C7A54E000C46E0B /* codepath_wk3_mailboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0404ACDC1C7A54E000C46E0B /* codepath_wk3_mailboxUITests.swift */; };
+		0404ACEB1C7A59BD00C46E0B /* MailboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0404ACEA1C7A59BD00C46E0B /* MailboxViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0404ACD81C7A54E000C46E0B /* codepath_wk3_mailboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = codepath_wk3_mailboxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0404ACDC1C7A54E000C46E0B /* codepath_wk3_mailboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codepath_wk3_mailboxUITests.swift; sourceTree = "<group>"; };
 		0404ACDE1C7A54E000C46E0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0404ACEA1C7A59BD00C46E0B /* MailboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MailboxViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0404ACBC1C7A54E000C46E0B /* AppDelegate.swift */,
 				0404ACBE1C7A54E000C46E0B /* ViewController.swift */,
 				0404ACC01C7A54E000C46E0B /* Main.storyboard */,
+				0404ACEA1C7A59BD00C46E0B /* MailboxViewController.swift */,
 				0404ACC31C7A54E000C46E0B /* Assets.xcassets */,
 				0404ACC51C7A54E000C46E0B /* LaunchScreen.storyboard */,
 				0404ACC81C7A54E000C46E0B /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				0404ACBF1C7A54E000C46E0B /* ViewController.swift in Sources */,
 				0404ACBD1C7A54E000C46E0B /* AppDelegate.swift in Sources */,
+				0404ACEB1C7A59BD00C46E0B /* MailboxViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
